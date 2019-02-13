@@ -6,7 +6,6 @@ void Application::InitVariables(void)
 	m_pMesh->GenerateCube(1.0f, C_GRAY);
 
 	// populate the vector
-
 	// row 1
 	m_v3Positions.push_back(vector3(-3.0f, 4.0f, 0.0f));
 	m_v3Positions.push_back(vector3(3.0f, 4.0f, 0.0f));

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C11_TranslationAndScale", "C11_TranslationAndScale\C11_TranslationAndScale.vcxproj", "{F8D2226D-0FEB-4B92-9F76-59DBB6936F5C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C11_TranslationAndScale", "E05_Transformations\C11_TranslationAndScale.vcxproj", "{F8D2226D-0FEB-4B92-9F76-59DBB6936F5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
